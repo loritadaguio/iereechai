@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diehiehahf.100starlings.com/sitemap.xml
